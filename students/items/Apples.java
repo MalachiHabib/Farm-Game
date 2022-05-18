@@ -20,7 +20,7 @@ public class Apples extends Food {
 		return "A";
 	}
 
-	// returns number of Apple objects instantiated
+	// return number of Apple objects instantiated
 	public static int getGenerationCount() {
 		return noOfApples;
 	}
